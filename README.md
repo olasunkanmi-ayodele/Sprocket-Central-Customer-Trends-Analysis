@@ -1,4 +1,4 @@
-# Sprocket-Central-Sales-Analysis-Project
+# Sprocket-Central-Customer-Trends-Analysis
 This is a KPMG Virtual Internship addressing the business task to determine customer trends and behavior of a company that specializes in the production of bikes and accessories.
 This internship has helped me develop the thought process of solving a problem as a data analyst and also built my self-confidence to analyze a real-world dataset for an organization or client, it also serves as my second project.
 
